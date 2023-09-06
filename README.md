@@ -43,6 +43,11 @@ You will find **2 Folders**, one is **PyBank**,and the other is **PyPoll**. In e
 
 ## Result Screenshots
 
+![Terminal_pybank](Screenshots/Terminal_pybank.png)
+*Caption: The terminal result for PyBank activity.*
+
+![Terminal_pypoll](Screenshots/Terminal_poll.png)
+*Caption: The terminal result for PyPoll activity.*
 
 ## Acknowledgements
 
